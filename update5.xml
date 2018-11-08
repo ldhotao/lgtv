@@ -4,7 +4,7 @@
     <url>https://raw.githubusercontent.com/ldhotao/lgtv/master/download/LGTV_5.4.1.apk</url>
     <description>
 </description>
-<dbversion>11.67</dbversion>
+<dbversion>11.68</dbversion>
 <dburl>https://raw.githubusercontent.com/ldhotao/lgtv/master/download/TVInfo.db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
