@@ -5,7 +5,7 @@
     <description>
 </description>
 <dbversion>11.64</dbversion>
-<dburl>https://raw.githubusercontent.com/ldhotao/lgtv/master/download/TVInfo.db</dburl>
+<dburl>https://raw.githubusercontent.com/ldhotao/lgtv/master/download/TVInfo .db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
 <showad>0</showad>
