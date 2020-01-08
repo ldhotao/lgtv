@@ -4,7 +4,7 @@
     <url>https://github.com/ldhotao/lgtv/raw/master/download/LGTV_5.4.1.apk</url>
     <description>
 </description>
-<dbversion>12.05</dbversion>
+<dbversion>20.1.08</dbversion>
 <dburl>https://github.com/ldhotao/lgtv/raw/master/download/TVInfo.db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>去掉失效源，加入汉中1-3</notice>
